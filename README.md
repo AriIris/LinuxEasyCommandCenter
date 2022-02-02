@@ -8,7 +8,7 @@ If changed please rename it to not cause confusion with the original file name.
 This script was developed on Linux Mint 20.2 with Python3 using PyCharm.
 https://www.jetbrains.com/pycharm/
 
-After unpacking the zip file go to the directory and edit the .py
+After unpacking the zip file go to the directory and edit the LinuxEasyCommandCenter.py
 file and put your password in the line 'put your password here'.
 
 To run this script create a Launcher on the Linux desktop
