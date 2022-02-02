@@ -80,7 +80,7 @@ mepaswrd = "put your password here"
 
 
 datenow = datetime.today()
-findme = os.environ("HOME")
+findme = os.environ["HOME"]
 findme = findme.replace("home", "")
 findme = findme.replace("/", "")
 osenvpath = os.environ['PATH']
