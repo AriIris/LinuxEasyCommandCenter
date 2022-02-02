@@ -1,5 +1,5 @@
 # LinuxEasyCommandCenter
-Python script to run linux commands
+Python script to run Linux commands
 
 This script is free to use and share. You may change it to your liking.
 
