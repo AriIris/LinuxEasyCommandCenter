@@ -10,6 +10,5 @@ This script was developed on Linux Mint 20.2 with Python3.
 After unpacking the zip file go to the directory and edit the .py
 file and put your password in the line 'put your password here'.
 
-To run this script create a Launcher on the Linux desktop.
-
+To run this script create a Launcher on the Linux desktop
 or you can run the scipt in Terminal by typing at the $ python3 LinuxEasyCommandCenter.py
