@@ -12,4 +12,4 @@ After unpacking the zip file go to the directory and edit the LinuxEasyCommandCe
 file and put your password in the line 'put your password here'.
 
 To run this script create a Launcher on the Linux desktop
-or you can run the scipt in Terminal by typing at the $ python3 LinuxEasyCommandCenter.py
+or you can run the script in Terminal by typing at the $ python3 LinuxEasyCommandCenter.py
